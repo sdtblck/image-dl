@@ -11,7 +11,7 @@ name = 'image-dl'
 setup(
     name=name,
     packages=find_packages(),
-    version='0.0.1',
+    version='0.0.2',
     license='MIT',
     description='A fast and simple image downloader in python',
     long_description=long_description,
